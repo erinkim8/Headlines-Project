@@ -1,0 +1,4 @@
+crisis_periods:
+  - {start: "2008-09-01", end: "2009-06-30", name: "GFC"}
+  - {start: "2020-02-15", end: "2020-06-30", name: "COVID"}
+  - {start: "2022-02-15", end: "2022-06-30", name: "Inflation"}
